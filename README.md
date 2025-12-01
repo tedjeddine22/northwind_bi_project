@@ -122,7 +122,7 @@ Le projet permet de découvrir:
 - ✅ Documentation complète
 
 ## 👨‍💼 Auteur
-[Votre Nom] - Projet Business Intelligence
+[Tadj eddine BOUDERBA] - Projet Business Intelligence
 
 ## 📝 Licence
 Projet éducatif - Northwind Traders
