@@ -1,0 +1,59 @@
+ID,order_id,product_name,Quantity,Unit Price,Discount,Status ID,Date Allocated,Purchase Order ID,Inventory ID,Line Total,order_date,customer_company,employee_name,Shipping Fee,Product Name,Category,Standard Cost,Profit
+27,30,Northwind Traders Beer,100,14.0,0,Invoiced,,96.0,83.0,1400.0,2006-01-15 00:00:00,Company AA,Anne Hellung-Larsen,200,Northwind Traders Beer,Beverages,10.5,350.0
+28,30,Northwind Traders Dried Plums,30,3.5,0,Invoiced,,,63.0,105.0,2006-01-15 00:00:00,Company AA,Anne Hellung-Larsen,200,Northwind Traders Dried Plums,Dried Fruit & Nuts,3.0,15.0
+29,31,Northwind Traders Dried Pears,10,30.0,0,Invoiced,,,64.0,300.0,2006-01-20 00:00:00,Company D,Jan Kotas,5,Northwind Traders Dried Pears,Dried Fruit & Nuts,22.5,75.0
+30,31,Northwind Traders Dried Apples,10,53.0,0,Invoiced,,,65.0,530.0,2006-01-20 00:00:00,Company D,Jan Kotas,5,Northwind Traders Dried Apples,Dried Fruit & Nuts,39.75,132.5
+31,31,Northwind Traders Dried Plums,10,3.5,0,Invoiced,,,66.0,35.0,2006-01-20 00:00:00,Company D,Jan Kotas,5,Northwind Traders Dried Plums,Dried Fruit & Nuts,3.0,5.0
+32,32,Northwind Traders Chai,15,18.0,0,Invoiced,,,67.0,270.0,2006-01-22 00:00:00,Company L,Mariya Sergienko,5,Northwind Traders Chai,Beverages,13.5,67.5
+33,32,Northwind Traders Coffee,20,46.0,0,Invoiced,,,68.0,920.0,2006-01-22 00:00:00,Company L,Mariya Sergienko,5,Northwind Traders Coffee,Beverages,34.5,230.0
+34,33,Northwind Traders Chocolate Biscuits Mix,30,9.2,0,Invoiced,,97.0,81.0,276.0,2006-01-30 00:00:00,Company H,Michael Neipper,50,Northwind Traders Chocolate Biscuits Mix,Baked Goods & Mixes,6.9,68.99999999999997
+35,34,Northwind Traders Chocolate Biscuits Mix,20,9.2,0,Invoiced,,,69.0,184.0,2006-02-06 00:00:00,Company D,Anne Hellung-Larsen,4,Northwind Traders Chocolate Biscuits Mix,Baked Goods & Mixes,6.9,45.99999999999998
+36,35,Northwind Traders Chocolate,10,12.75,0,Invoiced,,,70.0,127.5,2006-02-10 00:00:00,Company CC,Jan Kotas,7,Northwind Traders Chocolate,Candy,9.5625,31.875
+37,36,Northwind Traders Clam Chowder,200,9.65,0,Invoiced,,98.0,79.0,1930.0,2006-02-23 00:00:00,Company C,Mariya Sergienko,7,Northwind Traders Clam Chowder,Soups,7.2375,482.5000000000001
+38,37,Northwind Traders Curry Sauce,17,40.0,0,Invoiced,,,71.0,680.0,2006-03-06 00:00:00,Company F,Laura Giussani,12,Northwind Traders Curry Sauce,Sauces,30.0,170.0
+39,38,Northwind Traders Coffee,300,46.0,0,Invoiced,,99.0,77.0,13800.0,2006-03-10 00:00:00,Company BB,Anne Hellung-Larsen,10,Northwind Traders Coffee,Beverages,34.5,3450.0
+40,39,Northwind Traders Chocolate,100,12.75,0,Invoiced,,100.0,75.0,1275.0,2006-03-22 00:00:00,Company H,Jan Kotas,5,Northwind Traders Chocolate,Candy,9.5625,318.75
+41,40,Northwind Traders Green Tea,200,2.99,0,Invoiced,,101.0,73.0,598.0,2006-03-24 00:00:00,Company J,Mariya Sergienko,9,Northwind Traders Green Tea,Beverages,2.0,198.00000000000006
+42,41,Northwind Traders Coffee,300,46.0,0,Allocated,,102.0,104.0,13800.0,2006-03-24 00:00:00,Company G,Nancy Freehafer,0,Northwind Traders Coffee,Beverages,34.5,3450.0
+43,42,Northwind Traders Boysenberry Spread,10,25.0,0,Invoiced,,,84.0,250.0,2006-03-24 00:00:00,Company J,Nancy Freehafer,0,Northwind Traders Boysenberry Spread,"Jams, Preserves",18.75,62.5
+44,42,Northwind Traders Cajun Seasoning,10,22.0,0,Invoiced,,,85.0,220.0,2006-03-24 00:00:00,Company J,Nancy Freehafer,0,Northwind Traders Cajun Seasoning,Condiments,16.5,55.0
+45,42,Northwind Traders Chocolate Biscuits Mix,10,9.2,0,Invoiced,,103.0,110.0,92.0,2006-03-24 00:00:00,Company J,Nancy Freehafer,0,Northwind Traders Chocolate Biscuits Mix,Baked Goods & Mixes,6.9,22.99999999999999
+46,43,Northwind Traders Dried Plums,20,3.5,0,Allocated,,,86.0,70.0,2006-03-24 00:00:00,Company K,Nancy Freehafer,0,Northwind Traders Dried Plums,Dried Fruit & Nuts,3.0,10.0
+47,43,Northwind Traders Green Tea,50,2.99,0,Allocated,,,87.0,149.5,2006-03-24 00:00:00,Company K,Nancy Freehafer,0,Northwind Traders Green Tea,Beverages,2.0,49.500000000000014
+48,44,Northwind Traders Chai,25,18.0,0,Allocated,,,88.0,450.0,2006-03-24 00:00:00,Company A,Nancy Freehafer,0,Northwind Traders Chai,Beverages,13.5,112.5
+49,44,Northwind Traders Coffee,25,46.0,0,Allocated,,,89.0,1150.0,2006-03-24 00:00:00,Company A,Nancy Freehafer,0,Northwind Traders Coffee,Beverages,34.5,287.5
+50,44,Northwind Traders Green Tea,25,2.99,0,Allocated,,,90.0,74.75,2006-03-24 00:00:00,Company A,Nancy Freehafer,0,Northwind Traders Green Tea,Beverages,2.0,24.750000000000007
+51,45,Northwind Traders Clam Chowder,50,9.65,0,Invoiced,,104.0,116.0,482.5,2006-04-07 00:00:00,Company BB,Nancy Freehafer,40,Northwind Traders Clam Chowder,Soups,7.2375,120.62500000000003
+52,45,Northwind Traders Crab Meat,50,18.4,0,Invoiced,,,91.0,919.9999999999999,2006-04-07 00:00:00,Company BB,Nancy Freehafer,40,Northwind Traders Crab Meat,Canned Meat,13.8,229.9999999999999
+53,46,Northwind Traders Ravioli,100,19.5,0,Invoiced,,105.0,101.0,1950.0,2006-04-05 00:00:00,Company I,Robert Zare,100,Northwind Traders Ravioli,Pasta,14.625,487.5
+54,46,Northwind Traders Mozzarella,50,34.8,0,Invoiced,,106.0,114.0,1739.9999999999998,2006-04-05 00:00:00,Company I,Robert Zare,100,Northwind Traders Mozzarella,Dairy Products,26.1,434.9999999999998
+55,47,Northwind Traders Beer,300,14.0,0,Invoiced,,107.0,108.0,4200.0,2006-04-08 00:00:00,Company F,Michael Neipper,300,Northwind Traders Beer,Beverages,10.5,1050.0
+56,48,Northwind Traders Curry Sauce,25,40.0,0,Invoiced,,108.0,106.0,1000.0,2006-04-05 00:00:00,Company H,Mariya Sergienko,50,Northwind Traders Curry Sauce,Sauces,30.0,250.0
+57,48,Northwind Traders Chocolate Biscuits Mix,25,9.2,0,Invoiced,,109.0,112.0,229.99999999999997,2006-04-05 00:00:00,Company H,Mariya Sergienko,50,Northwind Traders Chocolate Biscuits Mix,Baked Goods & Mixes,6.9,57.49999999999997
+59,50,Northwind Traders Scones,20,10.0,0,Invoiced,,,92.0,200.0,2006-04-05 00:00:00,Company Y,Anne Hellung-Larsen,5,Northwind Traders Scones,Baked Goods & Mixes,7.5,50.0
+60,51,Northwind Traders Olive Oil,25,21.35,0,Invoiced,,,93.0,533.75,2006-04-05 00:00:00,Company Z,Anne Hellung-Larsen,60,Northwind Traders Olive Oil,Oil,16.0125,133.43750000000006
+61,51,Northwind Traders Clam Chowder,30,9.65,0,Invoiced,,,94.0,289.5,2006-04-05 00:00:00,Company Z,Anne Hellung-Larsen,60,Northwind Traders Clam Chowder,Soups,7.2375,72.37500000000001
+62,51,Northwind Traders Crab Meat,30,18.4,0,Invoiced,,,95.0,552.0,2006-04-05 00:00:00,Company Z,Anne Hellung-Larsen,60,Northwind Traders Crab Meat,Canned Meat,13.8,137.99999999999994
+66,56,Northwind Traders Chocolate,10,12.75,0,Invoiced,,111.0,99.0,127.5,2006-04-03 00:00:00,Company F,Andrew Cencini,0,Northwind Traders Chocolate,Candy,9.5625,31.875
+67,55,Northwind Traders Beer,87,14.0,0,Invoiced,,,117.0,1218.0,2006-04-05 00:00:00,Company CC,Nancy Freehafer,200,Northwind Traders Beer,Beverages,10.5,304.5
+68,79,Northwind Traders Dried Pears,30,30.0,0,Invoiced,,,119.0,900.0,2006-06-23 00:00:00,Company F,Andrew Cencini,0,Northwind Traders Dried Pears,Dried Fruit & Nuts,22.5,225.0
+69,79,Northwind Traders Dried Apples,30,53.0,0,Invoiced,,,118.0,1590.0,2006-06-23 00:00:00,Company F,Andrew Cencini,0,Northwind Traders Dried Apples,Dried Fruit & Nuts,39.75,397.5
+70,78,Northwind Traders Fruit Cocktail,40,39.0,0,Invoiced,,,120.0,1560.0,2006-06-05 00:00:00,Company CC,Nancy Freehafer,200,Northwind Traders Fruit Cocktail,Canned Fruit & Vegetables,29.25,390.0
+71,77,Northwind Traders Boysenberry Spread,90,25.0,0,Invoiced,,,121.0,2250.0,2006-06-05 00:00:00,Company Z,Anne Hellung-Larsen,60,Northwind Traders Boysenberry Spread,"Jams, Preserves",18.75,562.5
+72,76,Northwind Traders Cajun Seasoning,30,22.0,0,Invoiced,,,122.0,660.0,2006-06-05 00:00:00,Company Y,Anne Hellung-Larsen,5,Northwind Traders Cajun Seasoning,Condiments,16.5,165.0
+73,75,Northwind Traders Chocolate,40,12.75,0,Invoiced,,,123.0,510.0,2006-06-05 00:00:00,Company H,Mariya Sergienko,50,Northwind Traders Chocolate,Candy,9.5625,127.5
+74,74,Northwind Traders Chocolate,40,12.75,0,Invoiced,,,124.0,510.0,2006-06-08 00:00:00,Company F,Michael Neipper,300,Northwind Traders Chocolate,Candy,9.5625,127.5
+75,73,Northwind Traders Clam Chowder,10,9.65,0,Invoiced,,,125.0,96.5,2006-06-05 00:00:00,Company I,Robert Zare,100,Northwind Traders Clam Chowder,Soups,7.2375,24.125000000000007
+76,72,Northwind Traders Coffee,5,46.0,0,Invoiced,,,126.0,230.0,2006-06-07 00:00:00,Company BB,Nancy Freehafer,40,Northwind Traders Coffee,Beverages,34.5,57.5
+77,71,Northwind Traders Crab Meat,40,18.4,0,Invoiced,,,127.0,736.0,2006-05-24 00:00:00,Company A,Nancy Freehafer,0,Northwind Traders Crab Meat,Canned Meat,13.8,183.99999999999991
+78,70,Northwind Traders Curry Sauce,20,40.0,0,Invoiced,,,128.0,800.0,2006-05-24 00:00:00,Company K,Nancy Freehafer,0,Northwind Traders Curry Sauce,Sauces,30.0,200.0
+79,69,Northwind Traders Dried Plums,15,3.5,0,Invoiced,,,129.0,52.5,2006-05-24 00:00:00,Company J,Nancy Freehafer,0,Northwind Traders Dried Plums,Dried Fruit & Nuts,3.0,7.5
+80,67,Northwind Traders Almonds,20,10.0,0,Invoiced,,,130.0,200.0,2006-05-24 00:00:00,Company J,Mariya Sergienko,9,Northwind Traders Almonds,Dried Fruit & Nuts,7.5,50.0
+81,60,Northwind Traders Mozzarella,40,34.8,0,Invoiced,,,131.0,1392.0,2006-04-30 00:00:00,Company H,Michael Neipper,50,Northwind Traders Mozzarella,Dairy Products,26.1,347.99999999999983
+82,63,Northwind Traders Syrup,50,10.0,0,Invoiced,,,132.0,500.0,2006-04-25 00:00:00,Company C,Mariya Sergienko,7,Northwind Traders Syrup,Condiments,7.5,125.0
+83,63,Northwind Traders Curry Sauce,3,40.0,0,Invoiced,,,133.0,120.0,2006-04-25 00:00:00,Company C,Mariya Sergienko,7,Northwind Traders Curry Sauce,Sauces,30.0,30.0
+84,58,Northwind Traders Marmalade,40,81.0,0,Invoiced,,,134.0,3240.0,2006-04-22 00:00:00,Company D,Jan Kotas,5,Northwind Traders Marmalade,"Jams, Preserves",60.75,810.0
+85,58,Northwind Traders Long Grain Rice,40,7.0,0,Invoiced,,,135.0,280.0,2006-04-22 00:00:00,Company D,Jan Kotas,5,Northwind Traders Long Grain Rice,Grains,5.25,70.0
+86,80,Northwind Traders Gnocchi,10,38.0,0,Allocated,,,136.0,380.0,2006-04-25 17:03:55,Company D,Andrew Cencini,0,Northwind Traders Gnocchi,Pasta,28.5,95.0
+90,81,Northwind Traders Green Tea,0,2.99,0,No Stock,,,,0.0,2006-04-25 17:26:53,Company C,Andrew Cencini,0,Northwind Traders Green Tea,Beverages,2.0,0.0
+91,81,Northwind Traders Gnocchi,0,38.0,0,,,,,0.0,2006-04-25 17:26:53,Company C,Andrew Cencini,0,Northwind Traders Gnocchi,Pasta,28.5,0.0

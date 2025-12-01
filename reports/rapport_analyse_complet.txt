@@ -1,0 +1,21 @@
+RAPPORT D'ANALYSE COMPLET - NORTHWIND TRADERS
+============================================================
+Date de génération: 2025-12-01 00:11:22
+Période analysée: Données complètes
+
+
+💡 INSIGHTS CLÉS
+========================================
+• Chiffre d'affaires total: 0.00 $
+• Marge moyenne: 0.0%
+• 0 clients actifs
+• Panier moyen: 0.00 $
+• Délai livraison moyen: 0.9 jours
+
+🎯 RECOMMANDATIONS STRATÉGIQUES
+========================================
+1. Focus sur les produits à haute marge
+2. Développer la fidélisation des top clients
+3. Optimiser les délais de livraison
+4. Améliorer la performance des commerciaux moins performants
+5. Surveiller les niveaux de stock critiques

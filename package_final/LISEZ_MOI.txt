@@ -1,0 +1,48 @@
+PACKAGE FINAL - PROJET NORTHWIND BI
+========================================
+Créé le: 2025-12-01 02:01
+
+📁 CONTENU DU PACKAGE:
+
+📂 documentation/
+├── README.md          - Guide principal du projet
+└── requirements.txt   - Dépendances Python
+
+📂 livrables/
+├── rapport_technique.md   - Documentation technique
+├── rapport_business.md    - Synthèse business
+├── rapport_validation.md  - Rapport de validation
+└── arborescence_projet.txt - Structure complète
+
+📂 code/
+├── main.py            - Script principal avec menu
+├── etl_main.py        - Processus ETL
+├── analysis_main.py   - Analyse KPI
+├── visualizations.py  - Création graphiques
+├── dashboard.py       - Dashboard interactif
+├── dashboard_simple.py - Version simplifiée
+├── generate_reports.py - Génération rapports
+└── final_check.py     - Validation projet
+
+📂 donnees/
+├── sales_facts_clean.csv - Table de faits principale
+├── orders_clean.csv     - Commandes nettoyées
+├── products_clean.csv   - Produits nettoyés
+└── customers_clean.csv  - Clients nettoyés
+
+📂 video/
+└── script_video.md     - Script pour présentation vidéo
+
+🚀 INSTRUCTIONS D'UTILISATION:
+1. Extraire tout le package
+2. Ouvrir un terminal dans le dossier 'code'
+3. Installer les dépendances: pip install -r ../documentation/requirements.txt
+4. Lancer le projet: python main.py
+5. Suivre le menu interactif
+
+🌐 DASHBOARD: http://localhost:8050
+
+📞 SUPPORT:
+Pour toute question, consulter les rapports dans le dossier 'livrables/'
+
+© Projet Northwind BI - Business Intelligence

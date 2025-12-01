@@ -1,0 +1,18 @@
+RAPPORT D'ANALYSE NORTHWIND TRADERS
+========================================
+Date: 2025-12-01 01:14
+
+KPI PRINCIPAUX:
+Chiffre d'affaires total: 68,137.00 $
+Profit total: 17,072.81 $
+Marge moyenne: 25.1 %
+Nombre de commandes: 40
+Nombre de clients: 15
+Panier moyen: 1703.42 $
+
+TOP 5 PRODUITS:
+1. Northwind Traders Coffee: 29,900.00 $
+2. Northwind Traders Beer: 6,818.00 $
+3. Northwind Traders Marmalade: 3,240.00 $
+4. Northwind Traders Mozzarella: 3,132.00 $
+5. Northwind Traders Clam Chowder: 2,798.50 $

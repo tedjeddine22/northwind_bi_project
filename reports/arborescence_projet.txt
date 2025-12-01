@@ -1,0 +1,84 @@
+ARBORESCENCE DU PROJET NORTHWIND BI
+==================================================
+
+../
+  README.md
+  requirements.txt
+  data/
+    processed/
+      customers_clean.csv
+      customers_clean.xlsx
+      employees_clean.csv
+      employees_clean.xlsx
+      orders_clean.csv
+      orders_clean.xlsx
+      order_details_clean.csv
+      order_details_clean.xlsx
+      products_clean.csv
+      products_clean.xlsx
+      sales_facts_clean.csv
+    raw/
+      Customers.xlsx
+      Employee Privileges.xlsx
+      Employees.xlsx
+      Inventory Transaction Types.xlsx
+      Inventory Transactions.xlsx
+      Invoices.xlsx
+      Order Details Status.xlsx
+      Order Details.xlsx
+      Orders Status.xlsx
+      Orders Tax Status.xlsx
+      Orders.xlsx
+      Privileges.xlsx
+      Products.xlsx
+  figures/
+    clients/
+      analyse_clients.png
+    employes/
+    interactifs/
+      dashboard_complet.html
+      evolution_ca.html
+      repartition_categories.html
+      top_produits.html
+    produits/
+      analyse_produits.png
+    ventes/
+      kpi_principaux.png
+      tendances_temporelles.png
+  notebooks/
+  reports/
+    etl_log.txt
+    rapport_analyse.txt
+    rapport_analyse_complet.txt
+    rapport_business.md
+    rapport_etl_complet.txt
+    rapport_technique.md
+    rapport_visualisations.txt
+  scripts/
+    analysis.py
+    analysis_main.py
+    dashboard.py
+    dashboard_simple.py
+    debug_simple.py
+    etl.py
+    etl_main.py
+    exploration_donnees.py
+    generate_reports.py
+    main.py
+    test_dashboard_final.py
+    visualizations.py
+    data/
+      processed/
+    __pycache__/
+      analysis.cpython-314.pyc
+      analysis_main.cpython-314.pyc
+      dashboard.cpython-314.pyc
+      dashboard_simple.cpython-314.pyc
+      etl.cpython-314.pyc
+      etl_main.cpython-314.pyc
+      exploration_donnees.cpython-314.pyc
+      main_analysis.cpython-314.pyc
+      main_etl.cpython-314.pyc
+      visualizations.cpython-314.pyc
+  video/
+    script_video.md

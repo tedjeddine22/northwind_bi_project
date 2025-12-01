@@ -1,0 +1,22 @@
+RAPPORT DES VISUALISATIONS NORTHWIND TRADERS
+==================================================
+Date de génération: 2025-12-01 00:27
+
+📊 VISUALISATIONS CRÉÉES:
+
+📈 Graphiques Statiques (PNG):
+- figures/ventes/kpi_principaux.png
+- figures/produits/analyse_produits.png
+- figures/clients/analyse_clients.png
+- figures/ventes/tendances_temporelles.png
+
+🎨 Graphiques Interactifs (HTML):
+- figures/interactifs/evolution_ca.html
+- figures/interactifs/top_produits.html
+- figures/interactifs/repartition_categories.html
+- figures/interactifs/dashboard_complet.html
+
+💡 INSTRUCTIONS:
+- Les fichiers PNG peuvent être ouverts avec n'importe quel visionneuse d'images
+- Les fichiers HTML peuvent être ouverts dans un navigateur web
+- Le dashboard_complet.html contient tous les graphiques principaux

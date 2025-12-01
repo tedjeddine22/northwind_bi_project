@@ -1,0 +1,36 @@
+RAPPORT ETL - NORTHWIND TRADERS
+==================================================
+Date de génération: 2025-12-01 00:11:10
+
+📊 STATISTIQUES PAR TABLE:
+------------------------------
+
+ORDERS:
+  Lignes: 48
+  Colonnes: 25
+  Valeurs manquantes: 129
+  Doublons: 0
+
+ORDER_DETAILS:
+  Lignes: 58
+  Colonnes: 11
+  Valeurs manquantes: 104
+  Doublons: 0
+
+PRODUCTS:
+  Lignes: 45
+  Colonnes: 16
+  Valeurs manquantes: 65
+  Doublons: 0
+
+CUSTOMERS:
+  Lignes: 29
+  Colonnes: 20
+  Valeurs manquantes: 145
+  Doublons: 0
+
+EMPLOYEES:
+  Lignes: 9
+  Colonnes: 21
+  Valeurs manquantes: 18
+  Doublons: 0
